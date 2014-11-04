@@ -1,0 +1,71 @@
+
+.header-class
+{
+    background: url("img/background.png");
+    border: 1px solid yellow;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    height:1200px;
+    background-size: 100% 100%;
+}
+.header-class .header-div
+{
+    min-width: 100%;
+    border: 1px solid yellow;
+    padding-left: 160px;
+}
+.header-div .icon
+{
+    overflow: none;
+}
+#header-icon-word
+{
+    color:#ffffff;
+    font-size: 39px;
+    border: 1px solid yellow;
+    padding-top: 50px;
+    
+}
+#header-icon-word p
+{
+    color:#ffffff;
+    font-size: 17px;
+}
+#header-icon
+{
+    float: left;
+    border: 1px solid yellow;
+    padding-right: -10px;
+}
+.header-menu li
+{
+    float:left;
+    padding-right: 30px;
+    padding-top: 90px;
+    color:white;
+    border: 1px solid yellow;
+}
+.header-menu ul
+{
+    padding-left: 80px;
+    color:white;
+    border: 1px solid yellow;
+}
+.header-div-2
+{
+    min-width: 100%;
+    height: 400px;
+    border: 1px solid yellow;
+}
+.header-gallery
+{
+    background: url("img/h-gallery-bg.png");
+    background-size: 100% 100%;
+    height: 160px;
+    width:240px;
+    border: 1px solid yellow;
+}
+.header-div-3
+{
+    border: 1px solid yellow;
+}
